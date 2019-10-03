@@ -1,0 +1,43 @@
+<!DOCTYPE>
+<html>
+    <head>
+        <title>
+            Blackjack
+        </title>
+    <link rel="stylesheet" href="styles.css">
+    </head>
+    <body id="body">
+        <h1>
+            Dealer's cards
+        </h1>
+
+        <p>
+            <span id="dealer"></span>
+        </p>
+
+        <h3>
+            Dealer's Points = <span id="dealerPoints">0</span>
+        </h3>
+
+        <h1>
+            Player's cards
+        </h1>
+
+        <p>
+            <span id="player"></span>
+        </p>
+
+        <h3>
+            Current Points = <span id="playerPoints">0</span>
+        </h3>
+
+        <button id="hit">Hit</button>
+        <button id="tryAgain" style="visibility: hidden"> Try again</button>
+        <button id="stand">Stand</button>
+        
+
+        <script src="cards/cardNamesAndValues.js"></script>
+        <script src="cards/arr.js"></script>
+        <script src="app.js"></script>
+    </body>    
+</html>

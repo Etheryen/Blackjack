@@ -1,0 +1,13 @@
+let cards = [_2ofClubs, _3ofClubs, _4ofClubs, _5ofClubs, 
+_6ofClubs, _7ofClubs, _8ofClubs, _9ofClubs, 
+_10ofClubs, _jackofClubs, _queenofClubs, _kingofClubs, 
+_aceofClubs, _2ofDiamonds, _3ofDiamonds, _4ofDiamonds, _5ofDiamonds, 
+_6ofDiamonds, _7ofDiamonds, _8ofDiamonds, _9ofDiamonds, 
+_10ofDiamonds, _jackofDiamonds, _queenofDiamonds, _kingofDiamonds, 
+_aceofDiamonds, _2ofHearts, _3ofHearts, _4ofHearts, _5ofHearts, 
+_6ofHearts, _7ofHearts, _8ofHearts, _9ofHearts, 
+_10ofHearts, _jackofHearts, _queenofHearts, _kingofHearts, 
+_aceofHearts, _2ofSpades, _3ofSpades, _4ofSpades, _5ofSpades, 
+_6ofSpades, _7ofSpades, _8ofSpades, _9ofSpades, 
+_10ofSpades, _jackofSpades, _queenofSpades, _kingofSpades, 
+_aceofSpades]
